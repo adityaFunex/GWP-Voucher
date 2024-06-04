@@ -725,7 +725,7 @@ p.infoContent span {
     }
     .logoContainer img {
         height: 15px;
-        width: fit-content;
+        max-width: 100%;
     }
     .voucherCart-content h1 {
         gap: 0px 7px;
